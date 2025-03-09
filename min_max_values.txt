@@ -1,0 +1,4 @@
+Min Cost: 42.98
+Max Cost: 1376.11
+Min Duration: 0.4
+Max Duration: 22.33333333
