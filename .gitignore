@@ -1,2 +1,3 @@
-new_data/
+new_data/itineraries.csv
+new_data/processed_data.csv
 __pycache__
