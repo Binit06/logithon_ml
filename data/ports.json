@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Hong Kong Port S",
+    "tax": 0.0,
+    "handling_cost": 14.0,
+    "handling_duration": 24.0,
+    "custom_cost": 20.0,
+    "custom_duration": 48.0,
+    "country": "HK"
+  },
+  {
+    "name": "Shanghai Port S",
+    "tax": 0.17,
+    "handling_cost": 9.0,
+    "handling_duration": 24.0,
+    "custom_cost": 15.0,
+    "custom_duration": 48.0,
+    "country": "CN"
+  },
+  {
+    "name": "Chiwan Port S",
+    "tax": 0.17,
+    "handling_cost": 12.0,
+    "handling_duration": 72.0,
+    "custom_cost": 18.0,
+    "custom_duration": 96.0,
+    "country": "CN"
+  },
+  {
+    "name": "Mawei Port S",
+    "tax": 0.17,
+    "handling_cost": 14.0,
+    "handling_duration": 24.0,
+    "custom_cost": 20.0,
+    "custom_duration": 48.0,
+    "country": "CN"
+  },
+  {
+    "name": "Chongqing Port S",
+    "tax": 0.17,
+    "handling_cost": 14.0,
+    "handling_duration": 72.0,
+    "custom_cost": 20.0,
+    "custom_duration": 96.0,
+    "country": "CN"
+  },
+  {
+    "name": "Huangpu Port S",
+    "tax": 0.17,
+    "handling_cost": 14.0,
+    "handling_duration": 24.0,
+    "custom_cost": 20.0,
+    "custom_duration": 48.0,
+    "country": "CN"
+  },
+  {
+    "name": "Nantong Port S",
+    "tax": 0.17,
+    "handling_cost": 24.0,
+    "handling_duration": 72.0,
+    "custom_cost": 30.0,
+    "custom_duration": 96.0,
+    "country": "CN"
+  },
+  {
+    "name": "Ningbo Port S",
+    "tax": 0.17,
+    "handling_cost": 4.0,
+    "handling_duration": 24.0,
+    "custom_cost": 10.0,
+    "custom_duration": 48.0,
+    "country": "CN"
+  },
+  {
+    "name": "Qingdao Port S",
+    "tax": 0.17,
+    "handling_cost": 4.0,
+    "handling_duration": 48.0,
+    "custom_cost": 10.0,
+    "custom_duration": 72.0,
+    "country": "CN"
+  },
+  {
+    "name": "Guangzhou Port S",
+    "tax": 0.17,
+    "handling_cost": 9.0,
+    "handling_duration": 48.0,
+    "custom_cost": 15.0,
+    "custom_duration": 72.0,
+    "country": "CN"
+  },
+  {
+    "name": "Tianjin Port S",
+    "tax": 0.17,
+    "handling_cost": 19.0,
+    "handling_duration": 24.0,
+    "custom_cost": 25.0,
+    "custom_duration": 48.0,
+    "country": "CN"
+  },
+  {
+    "name": "Xiamen Port S",
+    "tax": 0.17,
+    "handling_cost": 19.0,
+    "handling_duration": 72.0,
+    "custom_cost": 25.0,
+    "custom_duration": 96.0,
+    "country": "CN"
+  },
+  {
+    "name": "Wuxi Port S",
+    "tax": 0.17,
+    "handling_cost": 24.0,
+    "handling_duration": 96.0,
+    "custom_cost": 30.0,
+    "custom_duration": 120.0,
+    "country": "CN"
+  },
+  {
+    "name": "Sunan Shuofang International Airport A",
+    "tax": 0.17,
+    "handling_cost": 34.0,
+    "handling_duration": 72.0,
+    "custom_cost": 40.0,
+    "custom_duration": 96.0,
+    "country": "CN"
+  },
+  {
+    "name": "Nanjing Lukou International Airport A",
+    "tax": 0.17,
+    "handling_cost": 34.0,
+    "handling_duration": 72.0,
+    "custom_cost": 40.0,
+    "custom_duration": 96.0,
+    "country": "CN"
+  },
+  {
+    "name": "Shanghai Hongqiao International Airport A",
+    "tax": 0.17,
+    "handling_cost": 24.0,
+    "handling_duration": 24.0,
+    "custom_cost": 30.0,
+    "custom_duration": 48.0,
+    "country": "CN"
+  },
+  {
+    "name": "Shanghai Pudong International Airport A",
+    "tax": 0.17,
+    "handling_cost": 24.0,
+    "handling_duration": 24.0,
+    "custom_cost": 30.0,
+    "custom_duration": 48.0,
+    "country": "CN"
+  },
+  {
+    "name": "Tianjin Binhai International Airport A",
+    "tax": 0.17,
+    "handling_cost": 29.0,
+    "handling_duration": 48.0,
+    "custom_cost": 35.0,
+    "custom_duration": 72.0,
+    "country": "CN"
+  },
+  {
+    "name": "Guangzhou Baiyun International Airport A",
+    "tax": 0.17,
+    "handling_cost": 29.0,
+    "handling_duration": 48.0,
+    "custom_cost": 35.0,
+    "custom_duration": 72.0,
+    "country": "CN"
+  },
+  {
+    "name": "Shenzhen Bao'an International Airport A",
+    "tax": 0.17,
+    "handling_cost": 14.0,
+    "handling_duration": 48.0,
+    "custom_cost": 20.0,
+    "custom_duration": 72.0,
+    "country": "CN"
+  },
+  {
+    "name": "Singapore Port S",
+    "tax": 0.07,
+    "handling_cost": 14.0,
+    "handling_duration": 24.0,
+    "custom_cost": 20.0,
+    "custom_duration": 48.0,
+    "country": "SG"
+  },
+  {
+    "name": "Singapore Changi Airport A",
+    "tax": 0.07,
+    "handling_cost": 33.0,
+    "handling_duration": 24.0,
+    "custom_cost": 39.0,
+    "custom_duration": 48.0,
+    "country": "SG"
+  },
+  {
+    "name": "Port of Kuantan S",
+    "tax": 0.06,
+    "handling_cost": 29.0,
+    "handling_duration": 48.0,
+    "custom_cost": 30.0,
+    "custom_duration": 48.0,
+    "country": "MY"
+  },
+  {
+    "name": "Port of Penang S",
+    "tax": 0.06,
+    "handling_cost": 34.0,
+    "handling_duration": 24.0,
+    "custom_cost": 40.0,
+    "custom_duration": 120.0,
+    "country": "MY"
+  },
+  {
+    "name": "Butterworth railway station T",
+    "tax": 0.06,
+    "handling_cost": 34.0,
+    "handling_duration": 24.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "MY"
+  },
+  {
+    "name": "Bangkok Port S",
+    "tax": 0.2093,
+    "handling_cost": 34.0,
+    "handling_duration": 72.0,
+    "custom_cost": 40.0,
+    "custom_duration": 120.0,
+    "country": "TH"
+  },
+  {
+    "name": "Bangkok railway station T",
+    "tax": 0.2093,
+    "handling_cost": 29.0,
+    "handling_duration": 2.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "TH"
+  },
+  {
+    "name": "Kunming Train station T",
+    "tax": 0.17,
+    "handling_cost": 29.0,
+    "handling_duration": 1.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "CN"
+  },
+  {
+    "name": "Chongqing train station T",
+    "tax": 0.17,
+    "handling_cost": 29.0,
+    "handling_duration": 1.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "CN"
+  },
+  {
+    "name": "Shanghai train station T",
+    "tax": 0.17,
+    "handling_cost": 34.0,
+    "handling_duration": 1.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "CN"
+  },
+  {
+    "name": "Wuxi train station T",
+    "tax": 0.17,
+    "handling_cost": 34.0,
+    "handling_duration": 1.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "CN"
+  },
+  {
+    "name": "Shenzhen train station T",
+    "tax": 0.17,
+    "handling_cost": 20.0,
+    "handling_duration": 1.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "CN"
+  },
+  {
+    "name": "Guangzhou train station T",
+    "tax": 0.17,
+    "handling_cost": 29.0,
+    "handling_duration": 1.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "CN"
+  },
+  {
+    "name": "new delhi airport A",
+    "tax": 0.13,
+    "handling_cost": 29.0,
+    "handling_duration": 96.0,
+    "custom_cost": 35.0,
+    "custom_duration": 240.0,
+    "country": "India"
+  },
+  {
+    "name": "Paradip Port S",
+    "tax": 0.13,
+    "handling_cost": 29.0,
+    "handling_duration": 72.0,
+    "custom_cost": 35.0,
+    "custom_duration": 240.0,
+    "country": "India"
+  },
+  {
+    "name": "Saigon Port S",
+    "tax": 0.1,
+    "handling_cost": 29.0,
+    "handling_duration": 48.0,
+    "custom_cost": 35.0,
+    "custom_duration": 120.0,
+    "country": "Vietnam"
+  },
+  {
+    "name": "Saigon railway station T",
+    "tax": 0.1,
+    "handling_cost": 35.0,
+    "handling_duration": 2.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "Vietnam"
+  },
+  {
+    "name": "Ho Chih Minh airport A",
+    "tax": 0.1,
+    "handling_cost": 34.0,
+    "handling_duration": 24.0,
+    "custom_cost": 40.0,
+    "custom_duration": 120.0,
+    "country": "Vietnam"
+  },
+  {
+    "name": "Hanoi railway station T",
+    "tax": 0.1,
+    "handling_cost": 34.0,
+    "handling_duration": 2.0,
+    "custom_cost": 0.0,
+    "custom_duration": 0.0,
+    "country": "Vietnam"
+  },
+  {
+    "name": "Noi Bai International Airport A",
+    "tax": 0.1,
+    "handling_cost": 34.0,
+    "handling_duration": 24.0,
+    "custom_cost": 40.0,
+    "custom_duration": 120.0,
+    "country": "Vietnam"
+  }
+]
